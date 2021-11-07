@@ -1,1 +1,3 @@
-yasararafath.me
+yasararafath.me ALIAS apex-loadbalancer.netlify.com
+www CNAME yasararafath.netlify.app.
+yasararafath.me A 75.2.60.5
